@@ -1,7 +1,18 @@
-# Experiment 05 – C++ Conditional & Selection Logic  
-**Author:** Updesh Arora (PRN: 24070123124) | ENTC B‑3  
+# 💻 C++ EXPERIMENTS
+
+A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
 
 ---
+
+## 👨‍🎓 Student Information
+
+- **Name:** Updesh Arora  
+- **PRN:** 24070123124  
+- **Branch:** ENTC  
+- **Class:** B-3
+
+--- 
+
 
 ## 🧠 About This Project  
 This C++ program contains **five mini-sections** that illustrate core decision-making constructs:
